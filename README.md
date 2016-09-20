@@ -1,6 +1,6 @@
-# atom-csstree-validator
+# csstree-validator
 
-CSS validator based on [CSSTree](https://github.com/csstree/validator) as [plugin](https://atom.io/packages/atom-csstree-validator) for Atom Editor.
+CSS validator based on [CSSTree](https://github.com/csstree/validator) as [plugin](https://atom.io/packages/csstree-validator) for Atom Editor.
 
 ## Features
 

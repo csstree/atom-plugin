@@ -1,6 +1,6 @@
 {
   "name": "csstree-validator",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "CSS validator based on CSSTree as plugin for Atom Editor",
   "main": "lib/index.js",
   "repository": {

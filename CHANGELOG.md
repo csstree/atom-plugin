@@ -1,3 +1,9 @@
+## 0.0.5 - 2016-09-23
+
+### Changed
+
+- Marker positioning accuracy
+
 ## 0.0.4 - 2016-09-23
 
 ### Changed

@@ -1,3 +1,9 @@
+## 0.0.6 - 2016-09-23
+
+### Fixed
+
+- Position of marker end
+
 ## 0.0.5 - 2016-09-23
 
 ### Changed

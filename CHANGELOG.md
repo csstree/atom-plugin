@@ -1,3 +1,9 @@
+## 0.0.8 - 2016-10-10
+
+### Changed
+
+- Updated csstree-validator version
+
 ## 0.0.7 - 2016-09-23
 
 ### Fixed

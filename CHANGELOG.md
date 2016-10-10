@@ -1,8 +1,15 @@
+## 0.0.9 - 2016-10-10
+
+### Changed
+
+- Updated description and readme
+
 ## 0.0.8 - 2016-10-10
 
 ### Changed
 
 - Updated csstree-validator version
+- Renamed repo
 
 ## 0.0.7 - 2016-09-23
 

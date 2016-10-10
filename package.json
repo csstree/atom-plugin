@@ -1,6 +1,6 @@
 {
   "name": "csstree-validator",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Validate CSS according to W3C specs and browser implementations",
   "main": "lib/index.js",
   "repository": "csstree/atom-plugin",

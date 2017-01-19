@@ -1,5 +1,6 @@
 .DS_Store
-npm-debug.log
-node_modules
 .vscode
+*.lock
+*.log
+node_modules
 jsconfig.json

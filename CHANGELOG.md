@@ -1,3 +1,7 @@
+## 0.0.12 (January 20, 2017)
+
+- Fixed highlighting of `parse error` and `unknown properties`
+
 ## 0.0.11 (January 20, 2017)
 
 - Updated csstree-validator version to 1.0.8

@@ -1,6 +1,6 @@
 {
   "name": "csstree-validator",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Validate CSS according to W3C specs and browser implementations",
   "main": "lib/index.js",
   "repository": "csstree/atom-plugin",
@@ -15,10 +15,9 @@
     "validator",
     "w3c"
   ],
-  "author": {
-    "name": "Sergey Melyukov",
-    "email": "s.melukov@gmail.com"
-  },
+  "contributors": [
+    "Sergey Melyukov <s.melukov@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/csstree/atom-plugin/issues"

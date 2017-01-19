@@ -1,55 +1,42 @@
-## 0.0.10 - 2016-11-03
+## 0.0.11 (January 20, 2017)
 
-### Changed
+- Updated csstree-validator version to 1.0.8
+- Improved highlighting range calculation
 
-- Updated csstree-validator version
+## 0.0.10 - (November 03, 2016)
 
-## 0.0.9 - 2016-10-10
+- Updated csstree-validator version to 1.0.5
 
-### Changed
+## 0.0.9 - (October 10, 2016)
 
 - Updated description and readme
 
-## 0.0.8 - 2016-10-10
+## 0.0.8 - (October 10, 2016)
 
-### Changed
-
-- Updated csstree-validator version
+- Updated csstree-validator version to 1.0.4
 - Renamed repo
 
-## 0.0.7 - 2016-09-23
+## 0.0.7 - (September 23, 2016)
 
-### Fixed
+- Improved highlighting range calculation
 
-- More accuracy for marker positioning
+## 0.0.6 - (September 23, 2016)
 
-## 0.0.6 - 2016-09-23
+- Improved highlighting range calculation
 
-### Fixed
+## 0.0.5 - (September 23, 2016)
 
-- Position of marker end
+- Improved highlighting range calculation
 
-## 0.0.5 - 2016-09-23
+## 0.0.4 - (September 23, 2016)
 
-### Changed
+- Updated csstree-validator version to 1.0.3
+- Improved highlighting range calculation
 
-- Marker positioning accuracy
+## 0.0.2 - (September 21, 2016)
 
-## 0.0.4 - 2016-09-23
+- Changed package name
 
-### Changed
+## 0.0.0 - (September 20, 2016)
 
-- Validator version
-- Marker positioning accuracy
-
-## 0.0.2 - 2016-09-21
-
-### Changed
-
-- Package name
-
-## 0.0.0 - 2016-09-20
-
-### Added
-
-- CSSTree validation
+- Initial release - base validation with csstree-validator 1.0.1

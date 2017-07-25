@@ -1,3 +1,8 @@
+## 0.1.0 (July 26, 2017)
+
+- Pinned css-tree version to 1.0.0-alpha19
+- Improved accuracy and fixed edge-cases
+
 ## 0.0.12 (January 20, 2017)
 
 - Fixed highlighting of `parse error` and `unknown properties`

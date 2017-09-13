@@ -1,6 +1,6 @@
 {
   "name": "csstree-validator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Validate CSS according to W3C specs and browser implementations",
   "main": "lib/index.js",
   "repository": "csstree/atom-plugin",
@@ -26,8 +26,7 @@
   "dependencies": {
     "atom-linter": "^8.0.0",
     "atom-package-deps": "^4.0.1",
-    "csstree-validator": "1.0.8",
-    "css-tree": "1.0.0-alpha19"
+    "csstree-validator": "1.2.0"
   },
   "package-deps": [
     "linter"
